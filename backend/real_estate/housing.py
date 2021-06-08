@@ -11,3 +11,6 @@ class Housing():
         this.fname = payload
         return pd.read_excel(this.context + this.fname, sheet_name='평균전세', header=0, usecols= 'A:U')
 
+    # 시 - 도 리스트 만들기
+
+    #

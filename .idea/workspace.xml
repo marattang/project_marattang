@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1d33a067-faac-4ce4-abdc-dc2735501415" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/backend/real_estate/data/housing.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/test/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/test/dataset.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/real_estate/controller.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend/real_estate/controller.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/real_estate/housing.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend/real_estate/housing.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/index.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1tcGp2QFZ4v6fhzCWVWtG3qmnzk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1d33a067-faac-4ce4-abdc-dc2735501415" name="Default Changelist" comment="" />
+      <created>1623061142859</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1623061142859</updated>
+    </task>
+    <servers />
+  </component>
+</project>
