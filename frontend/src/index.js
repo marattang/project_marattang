@@ -10,9 +10,6 @@ ReactDOM.render(
     <BrowserRouter>
       <App />
     </BrowserRouter>
-    {/* <HashRouter>
-      <App />
-    </HashRouter> */}
   </React.StrictMode>,
   document.getElementById('root')
 );

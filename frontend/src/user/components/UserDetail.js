@@ -5,9 +5,9 @@ const UserDetail = () => {
     return (<>
         <nav>
           <Router>
-            <Link to='/'>home</Link>
-            <Link to='/'>blog</Link>
-            <Link to='/'>about me</Link>
+            <Link to='/'>home</Link><br/>
+            <Link to='/'>blog</Link><br/>
+            <Link to='/'>about me</Link><br/>
           </Router>
         </nav>
 
